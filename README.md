@@ -1,7 +1,7 @@
 ## Hey 👋 there! I'm Debrah Kwesi Buabeng, an Electrical/Electronic Engineer. ##
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Akora-IngDKB)
-[![Pub.dev](https://img.shields.io/badge/-Pub.dev-000?style=flat-square&logo=Pub&color=blue)](https://pub.dev/publishers/akora-ingdkb.me/packages)
+[![Pub.dev](https://img.shields.io/badge/-Pub.dev-000?style=flat-square&logo=dart&color=blue)](https://pub.dev/publishers/akora-ingdkb.me/packages)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kwesi-buabeng-debrah/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat-square&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/akora_ing_d_k_b/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AkoraIng_DKB)](https://twitter.com/AkoraIng_DKB)
